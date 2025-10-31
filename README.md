@@ -88,3 +88,10 @@ git init git add . git commit -m "Initial commit" git branch -M main git remote 
     </p>
   </footer>
 </main>
+cd pfad/zum/ordner/deutsch-mit-iliana
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/DEIN-GITHUB-NAME/deutsch-mit-iliana.git
+git push -u origin main
